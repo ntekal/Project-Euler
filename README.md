@@ -1,2 +1,2 @@
 # ProjectEuler
-365 days of Euler.
+365 days of Euler in R -- http://projecteuler.net
